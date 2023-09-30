@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Pavel Kudrautsau, a Project Manager with a fervent interest in Python and Data.
+
+- 🌱 I’m currently learning Python, ClickHouse and dbt.
+- 👯 I am eager to contribute to Python open source projects, preferably those with a data-oriented focus
+- 💬 Ask me about project management, as well as methods to either build productive teams from inception or elevate existing ones to higher performance levels.
+
 <!--
 **kudrautsau-pavel/kudrautsau-pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
